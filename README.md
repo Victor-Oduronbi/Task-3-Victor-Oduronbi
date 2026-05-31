@@ -68,7 +68,7 @@ Below is the definitive performance breakdown mapping precision and recall for e
 | **8** | 0.98 | 0.94 | 0.96 | 48 |
 | **9** | 0.98 | 0.98 | 0.98 | 47 |
 | **Overall Accuracy** | | | **0.98** | **450** |
-| *Macro Average* | 0.00 | 0.98 | 0.98 | 450 |
+| *Macro Average* | 0.98 | 0.98 | 0.98 | 450 |
 | *Weighted Average* | 0.98 | 0.98 | 0.98 | 450 |
 
 ### 3. Confusion Matrix Derived Insights
